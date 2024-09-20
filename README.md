@@ -2,9 +2,8 @@
 
 ### About
 * 🔭I'm part of the [AI CDT for Biomedical Innovation](https://www.ai4biomed.io/), working on my PhD titled "Mining the Multi-Omic Literature"
-* 📫 How to reach me: nuriafarimd@gmail.com
 
-### Programming languages
+### Tools
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
