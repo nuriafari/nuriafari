@@ -45,7 +45,7 @@ My broader interests include **scientific text mining, biomedical metadata, onto
 
 <p align="center">
   <a href="https://uk.linkedin.com/in/n%C3%BAria-f%C3%A0brega-ribas-0864611ab"><img src="https://img.shields.io/badge/LinkedIn-N%C3%BAria%20F%C3%A0brega-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://orcid.org/https://orcid.org/0009-0003-8699-1908"><img src="https://img.shields.io/badge/ORCID-YOUR--ORCID--ID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://orcid.org/https://orcid.org/0009-0003-8699-1908"><img src="https://img.shields.io/badge/ORCID-0009--0003--8699--1908-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://www.research.ed.ac.uk/en/persons/n%C3%BAria-f%C3%A0brega-i-ribas/"><img src="https://img.shields.io/badge/Research%20Profile-Edinburgh-6D2248?style=flat-square" alt="University of Edinburgh Research Profile"></a>
 </p>
 
